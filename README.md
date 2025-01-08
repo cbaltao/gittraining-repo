@@ -1,3 +1,3 @@
 # Intro
 
-This is a repository for tracking progress throughout this training module.
+This is a repository for tracking progress throughout this training module!
