@@ -32,4 +32,6 @@ ex: git commit -m "Added index.html" -m "Hello world!"
 
 *A push updates the remote repository, in this case, on github.*
 
-To push a commit and make it live on the remote repository, use "git push".
+To push a commit and make it live on the remote repository, use "git push origin master".
+
+# CONTINUED ON GITTRAINING-REPO2...
